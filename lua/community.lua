@@ -6,5 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.python-ruff" },
+  { import = "astrocommunity.pack.docker" },
   -- import/override with your plugins folder
 }
