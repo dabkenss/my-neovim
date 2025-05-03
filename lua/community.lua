@@ -8,5 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.editing-support.auto-save-nvim" },
+  { import = "astrocommunity.motion.hop-nvim" },
   -- import/override with your plugins folder
 }
